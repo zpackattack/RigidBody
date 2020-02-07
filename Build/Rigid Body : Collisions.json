@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Rigid Body",
+"productVersion": "0.1",
+"dataUrl": "Rigid Body : Collisions.data.unityweb",
+"wasmCodeUrl": "Rigid Body : Collisions.wasm.code.unityweb",
+"wasmFrameworkUrl": "Rigid Body : Collisions.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
